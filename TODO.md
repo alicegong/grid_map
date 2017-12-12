@@ -1,0 +1,2 @@
+- [ ] Add extra strip on boundary
+- [ ] Add boundary checking
